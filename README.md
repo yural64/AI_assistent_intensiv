@@ -34,7 +34,10 @@
 ## Скриншоты работы чат-бота
 
 1. https://github.com/yural64/AI_assistent_intensiv/blob/main/чат1.png
-
+2. https://github.com/yural64/AI_assistent_intensiv/blob/main/чат2.png
+3. https://github.com/yural64/AI_assistent_intensiv/blob/main/чат3.png
+4. https://github.com/yural64/AI_assistent_intensiv/blob/main/чат4.png
+   
 ---
 
 ## Технологии и сервисы
